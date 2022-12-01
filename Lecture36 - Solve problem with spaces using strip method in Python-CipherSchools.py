@@ -1,4 +1,4 @@
-# name = "      Him    anshu   "
+# name = "      Priy   anshu   "
 # dots="..........."
 # print(name+dots)
 # print(name.lstrip()+dots)
